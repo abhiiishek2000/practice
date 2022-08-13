@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7978769637",
+    "project_id": "dream11appprank",
+    "storage_bucket": "dream11appprank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7978769637:android:4fbb86c92de0d13b78880c",
+        "android_client_info": {
+          "package_name": "com.example.dream11_prank_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7978769637-s1166bll0b3j17rhc4eq30pv8korv2fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0g9ckGo1sVocPpIH8_31lK49JGpEizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7978769637-s1166bll0b3j17rhc4eq30pv8korv2fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
